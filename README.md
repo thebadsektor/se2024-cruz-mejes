@@ -4,7 +4,7 @@
 Welcome to the **MoPong**! 🎉 This interactive game allows players to control a paddle using their hands, keeping a ball in play and scoring points for each successful hit. Built with **Python**, **OpenCV**, and **MediaPipe**, this game provides a fun way to test your reflexes and hand-eye coordination! This Project is a Group Project from School.
 
 <p align="center">
-  <img width="1000" height="300" src="mainpage.png">
+  <img width="1000" height="450" src="mainpage.png">
 </p>
 
 ---
